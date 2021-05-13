@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Shohei KOJIMA
-description: Welcome!
+
+owner:
+    name: Shohei KOJIMA
+    bio: 'Welcome!'
