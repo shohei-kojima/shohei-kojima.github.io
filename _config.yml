@@ -12,5 +12,7 @@ lowlight-color: '#000'
 
 navbar:
     right:
-      - text: "Home"
-        href: index.md
+        - text: "Home"
+          href: index.md
+        - text: "Publication"
+          href: publication.md
