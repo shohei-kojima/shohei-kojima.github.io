@@ -2,9 +2,7 @@
 title: Academic Website of Shohei KOJIMA
 #description: Welcome!
 
-owner:
-    name: Shohei Kojima
-    bio: 'test'
+theme: theme.css
 
 highlight-color: '#CC0000'
 lowlight-color: '#000'
