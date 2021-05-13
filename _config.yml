@@ -8,7 +8,6 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Shohei Kojima
   avatar: bio-photo.jpg
-  bio: "This is an academic website of Shohei Kojima."
   # Do not include the @ symbol in your Twitter username
   twitter: ShoheiKojima
   github: shohei-kojima
