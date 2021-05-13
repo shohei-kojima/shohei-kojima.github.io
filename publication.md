@@ -2,5 +2,12 @@
 title: "Publication list"
 ---
 
-- test
-- test2
+- **Shohei Kojima**, Anselmo Jiro Kamada, Nicholas F. Parrish. Virus-derived variation in diverse human genomes. ***PLoS Genetics***, 2021. [Link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009324)
+- Junna Kawasaki, **Shohei Kojima**, Yahiro Mukai, Keizo Tomonaga, Masayuki Horie. One hundred million years history of bornavirus infections hidden in vertebrate genomes. ***Proc. Natl. Acad. Sci. USA***. In press
+- **Shohei Kojima**, Kohei Yoshikawa, Jumpei Ito, So Nakagawa, Nicholas F. Parrish, Masayuki Horie, Shuichi Kawano, Keizo Tomonaga. Virus-like insertions with sequence signatures similar to those of endogenous non-retroviral RNA viruses in the human genome. ***Proc. Natl. Acad. Sci. USA***, 2021. [Link](https://www.pnas.org/content/118/5/e2010758118)
+- Masashi Iwamoto, Yukino Shibata, Junna Kawasaki, **Shohei Kojima**, Yung-Tsung Li, Shingo Iwami, Masamichi Muramatsu, Hui-Lin Wu, Kazuhiro Wada, Keizo Tomonaga, Koichi Watashi, Masayuki Horie. Identification of novel avian and mammalian deltaviruses provides new insights into deltavirus evolution. ***Virus Evolution***, 2021. [Link](https://academic.oup.com/ve/article/7/1/veab003/6104627)
+- Akihiko Sakashita, So Maezawa, Kazuki Takahashi, Kris G. Alavattam, Masashi Yukawa, Yueh Chiang Hu, **Shohei Kojima**, Nicholas F. Parrish, Artem Barski, Mihaela Pavlicev, Satoshi H. Namekawa. Endogenous retroviruses drive species-specific germline transcriptomes in mammals. ***Nature Structural & Molecular Biology***, 2020. [Link](https://academic.oup.com/ve/article/7/1/veab003/6104627)
+- Mako Yanai, **Shohei Kojima**, Madoka Sakai, Ryo Komorizono, Keizo Tomonaga, Akiko Makino. ADAR2 Is Involved in Self and Nonself Recognition of Borna Disease Virus Genomic RNA in the Nucleus. ***Journal of Virology***, 2020. [Link](https://jvi.asm.org/content/94/6/e01513-19)
+- **Shohei Kojima**, Ryo Sato, Mako Yanai, Yumiko Komatsu, Masayuki Horie, Manabu Igarashi, and Keizo Tomonaga. Splicing-Dependent Subcellular Targeting of Borna Disease Virus Nucleoprotein Isoforms. ***Journal of Virology***, 2019. [Link](https://jvi.asm.org/content/93/5/e01621-18)
+- Tomoyuki Honda, Kozue Sofuku, **Shohei Kojima**, Yusuke Yamamoto, Naohiro Ohtaki, Keizo Tomonaga. Linkage between the leader sequence and leader RNA production in Borna disease virus-infected cells. ***Virology***, 2017. [Link](https://www.sciencedirect.com/science/article/pii/S0042682217302295)
+- **Shohei Kojima**, Tomoyuki Honda, Yusuke Matsumoto, Keizo Tomonaga, Heat stress is a potent stimulus for enhancing rescue efficiency of recombinant Borna disease virus. ***Microbiology and Immunology***, 2014. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1348-0421.12193)
