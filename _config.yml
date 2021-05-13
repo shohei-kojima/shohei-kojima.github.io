@@ -1,6 +1,7 @@
-theme: jekyll-theme-cayman
-title: Shohei KOJIMA
+#theme: jekyll-theme-cayman
+title: Academic Website of Shohei KOJIMA
+#description: Welcome!
 
 owner:
-    name: Shohei KOJIMA
-    bio: 'Welcome!'
+    name: Shohei Kojima
+    bio: 'test'
