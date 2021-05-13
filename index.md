@@ -1,9 +1,8 @@
 ---
-title: "Shohei Kojima"
-site: distill::distill_website
-output:
-  postcards::trestles
+title: "top page"
 ---
 
 # About
 I am a postdoc researcher at RIKEN.
+
+- [Publication](https://shohei-kojima.github.io/publication)
