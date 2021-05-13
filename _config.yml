@@ -1,0 +1,8 @@
+#theme: jekyll-theme-cayman
+#title: Academic Website of Shohei KOJIMA
+#description: ''
+
+plugins: ['jekyll/scholar']
+
+scholar:
+    style: modern-language-association
