@@ -1,8 +1,8 @@
 ---
 layout: page
+title: About me
 ---
 
-#
 
 I am a postdoc researcher in RIKEN. 
 
