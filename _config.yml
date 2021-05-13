@@ -5,3 +5,12 @@ title: Academic Website of Shohei KOJIMA
 owner:
     name: Shohei Kojima
     bio: 'test'
+
+highlight-color: '#CC0000'
+lowlight-color: '#000'
+
+
+navbar:
+    right:
+      - text: "Home"
+        href: index.md
